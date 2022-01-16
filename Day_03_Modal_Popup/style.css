@@ -81,7 +81,7 @@ body{
     cursor: pointer;
 }
 .modal__footer button:hover{
-    opacity: calc(90%);
+    opacity: calc(80%);
 }
 
 .hide{
