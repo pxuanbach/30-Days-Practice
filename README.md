@@ -16,3 +16,6 @@ Link: https://www.nodemy.vn/projects-html-css-js
 
 ### Day 3: Modal Popup
 <img src="https://media.giphy.com/media/A1XDsfYM1hP2fLPULU/giphy.gif" alt="Modal Popup" width="500"/>
+
+### Day 4: Image Gallery
+<img src="https://media.giphy.com/media/RiEhIXZ9lpjSMvpvtp/giphy.gif" alt="Image Gallery" width="680"/>
