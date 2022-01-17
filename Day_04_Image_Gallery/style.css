@@ -1,0 +1,90 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background: #dadada;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.wrapper{
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: space-between;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    transition: 0.3s;
+}
+.image{
+    width: 22%;
+    height: 200px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin: 20px 0;
+    cursor: pointer;
+    user-select: none;
+}
+.image:hover img{
+    transform: scale(1.3);
+    transition: 0.3s;
+}
+
+.gallery{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    opacity: 0;
+    pointer-events: none;
+    transform: scale(0.8);
+    transition: 0.3s;
+}
+.gallery__inner{
+    width: 80%;
+    height: 80%;
+    user-select: none;
+}
+.control__close{
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    font-size: 40px;
+    cursor: pointer;
+}
+.control{
+    font-size: 40px;
+    cursor: pointer;
+    position: absolute;
+}
+.control.prev{
+    left: 15px;
+}
+.control.next{
+    right: 15px;
+}
+
+.show{
+    opacity: 1;
+    pointer-events: auto;
+    transform: scale(1);
+    transition: 0.3s;
+}
+
+.hide{
+    display: none;
+}
