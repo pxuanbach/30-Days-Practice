@@ -20,3 +20,6 @@ Link: https://www.nodemy.vn/projects-html-css-js
 
 ### Day 4: Image Gallery
 <img src="https://media.giphy.com/media/RiEhIXZ9lpjSMvpvtp/giphy.gif" alt="Image Gallery" width="680"/>
+
+### Day 5: Search Box
+<img src="https://media.giphy.com/media/MYyXkLsI7z6cS3eOkx/giphy.gif" alt="Search Box" width="500"/>
