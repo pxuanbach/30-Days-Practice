@@ -19,7 +19,7 @@ Link: https://www.nodemy.vn/projects-html-css-js
 <img src="https://media.giphy.com/media/KD1upq83tTgVtGbg53/giphy.gif" alt="Modal Popup" width="500"/>
 
 ### Day 4: Image Gallery
-<img src="https://media.giphy.com/media/7p1ilFB9zawJYIXFDq/giphy.gif" alt="Image Gallery" width="680"/>
+<img src="https://media.giphy.com/media/7p1ilFB9zawJYIXFDq/giphy.gif" alt="Image Gallery" width="720"/>
 
 ### Day 5: Search Box
 <img src="https://media.giphy.com/media/MYyXkLsI7z6cS3eOkx/giphy.gif" alt="Search Box" width="500"/>
