@@ -9,6 +9,7 @@ Link: https://www.nodemy.vn/projects-html-css-js
 - [Day 4](#day-4-image-gallery)
 - [Day 5](#day-5-search-box)
 - [Day 6](#day-6-detect-pressed-key)
+- [Day 7](#day-7-search-tags)
 
 ### Day 1: Product Card
 <img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="340"/>
@@ -27,3 +28,6 @@ Link: https://www.nodemy.vn/projects-html-css-js
 
 ### Day 6: Detect Pressed Key
 <img src="https://media.giphy.com/media/iiFtJrMmJIjoS7cSdt/giphy.gif" alt="Detect Pressed Key" width="720"/>
+
+### Day 7: Search Tags
+<img src="https://media.giphy.com/media/ouZ7IZZEXs5cIANLe4/giphy.gif" alt="Search Tags" width="500"/>
