@@ -14,7 +14,7 @@ Link: https://www.nodemy.vn/projects-html-css-js
 <img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="340"/>
 
 ### Day 2: Profile Card
-<img src="https://media.giphy.com/media/5hgp4MTp9CyTBsiDLy/giphy.gif" alt="Profile Card" width="340"/>
+<img src="https://media.giphy.com/media/hEGI9bv9GI1uf02sQ8/giphy.gif" alt="Profile Card" width="340"/>
 
 ### Day 3: Modal Popup
 <img src="https://media.giphy.com/media/KD1upq83tTgVtGbg53/giphy.gif" alt="Modal Popup" width="500"/>
