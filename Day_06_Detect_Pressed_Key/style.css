@@ -19,6 +19,44 @@ body{
     text-align: center;
     background-color: white;
     color: #17a2b8;
+    font-weight: 600;
     cursor: pointer;
     user-select: none;
+}
+
+.box .result{
+    height: 250px;
+    width: 250px;
+    border: 7px solid white;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+    font-weight: 600;
+    margin: auto;
+    margin-bottom: 70px;
+}
+.details{
+    display: flex;
+}
+.card{
+    width: 300px;
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 20px;
+}
+.card p{
+    padding: 10px;
+    text-align: center;
+}
+.card p:first-child{
+    background: #78c0c9;
+    color: white;
+}
+
+.hide{
+    display: none;
 }
