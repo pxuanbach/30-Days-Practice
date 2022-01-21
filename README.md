@@ -31,3 +31,8 @@ Link: https://www.nodemy.vn/projects-html-css-js
 
 ### Day 7: Search Tags
 <img src="https://media.giphy.com/media/ouZ7IZZEXs5cIANLe4/giphy.gif" alt="Search Tags" width="500"/>
+
+### Day 8: Register Form Validator
+<img src="https://user-images.githubusercontent.com/55500268/150559857-e8d8586f-0680-44fd-9423-74c5ba0ee7d1.png" alt="Register Form Validator" width="500"/>
+
+
