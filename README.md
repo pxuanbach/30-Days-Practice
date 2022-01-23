@@ -11,29 +11,31 @@ Link: https://www.nodemy.vn/projects-html-css-js
 - [Day 6](#day-6-detect-pressed-key)
 - [Day 7](#day-7-search-tags)
 - [Day 8](#day-8-register-form-validator)
+- [Day 9](#day-9-weather-app)
 
 ### Day 1: Product Card
-<img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="340"/>
+<img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="360"/>
 
 ### Day 2: Profile Card
-<img src="https://media.giphy.com/media/hEGI9bv9GI1uf02sQ8/giphy.gif" alt="Profile Card" width="340"/>
+<img src="https://media.giphy.com/media/hEGI9bv9GI1uf02sQ8/giphy.gif" alt="Profile Card" width="360"/>
 
 ### Day 3: Modal Popup
-<img src="https://media.giphy.com/media/KD1upq83tTgVtGbg53/giphy.gif" alt="Modal Popup" width="500"/>
+<img src="https://media.giphy.com/media/KD1upq83tTgVtGbg53/giphy.gif" alt="Modal Popup" width="360"/>
 
 ### Day 4: Image Gallery
 <img src="https://media.giphy.com/media/7p1ilFB9zawJYIXFDq/giphy.gif" alt="Image Gallery" width="720"/>
 
 ### Day 5: Search Box
-<img src="https://media.giphy.com/media/MYyXkLsI7z6cS3eOkx/giphy.gif" alt="Search Box" width="500"/>
+<img src="https://media.giphy.com/media/MYyXkLsI7z6cS3eOkx/giphy.gif" alt="Search Box" width="360"/>
 
 ### Day 6: Detect Pressed Key
 <img src="https://media.giphy.com/media/iiFtJrMmJIjoS7cSdt/giphy.gif" alt="Detect Pressed Key" width="720"/>
 
 ### Day 7: Search Tags
-<img src="https://media.giphy.com/media/ouZ7IZZEXs5cIANLe4/giphy.gif" alt="Search Tags" width="500"/>
+<img src="https://media.giphy.com/media/ouZ7IZZEXs5cIANLe4/giphy.gif" alt="Search Tags" width="360"/>
 
 ### Day 8: Register Form Validator
-<img src="https://user-images.githubusercontent.com/55500268/150559857-e8d8586f-0680-44fd-9423-74c5ba0ee7d1.png" alt="Register Form Validator" width="500"/>
+<img src="https://media.giphy.com/media/rU40xwzTYHpNKKIu89/giphy.gif" alt="Register Form Validator" width="360"/>
 
-
+### Day 9: Weather App
+<img src="https://media.giphy.com/media/RkQnLZBvVtFI0oI79j/giphy.gif" alt="Weather App" width="360"/>
