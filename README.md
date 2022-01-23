@@ -3,15 +3,15 @@ Thực chiến hơn 30 projects HTML, CSS, Javascript.
 Link: https://www.nodemy.vn/projects-html-css-js
 
 ## Mục lục
-- [Day 1](#day-1-product-card)
-- [Day 2](#day-2-profile-card)
-- [Day 3](#day-3-modal-popup)
-- [Day 4](#day-4-image-gallery)
-- [Day 5](#day-5-search-box)
-- [Day 6](#day-6-detect-pressed-key)
-- [Day 7](#day-7-search-tags)
-- [Day 8](#day-8-register-form-validator)
-- [Day 9](#day-9-weather-app)
+- [Day 1: Product Card](#day-1-product-card)
+- [Day 2: Profile Card](#day-2-profile-card)
+- [Day 3: Modal Popup](#day-3-modal-popup)
+- [Day 4: Image Gallery](#day-4-image-gallery)
+- [Day 5: Search Box](#day-5-search-box)
+- [Day 6: Detect Pressed Key](#day-6-detect-pressed-key)
+- [Day 7: Search Tags](#day-7-search-tags)
+- [Day 8: Register Form Validator](#day-8-register-form-validator)
+- [Day 9: Weather App](#day-9-weather-app)
 
 ### Day 1: Product Card
 <img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="360"/>
