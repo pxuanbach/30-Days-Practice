@@ -12,6 +12,7 @@ Link: https://www.nodemy.vn/projects-html-css-js
 - [Day 7: Search Tags](#day-7-search-tags)
 - [Day 8: Register Form Validator](#day-8-register-form-validator)
 - [Day 9: Weather App](#day-9-weather-app)
+- [Day 10: Todo List](#day-10-todo-list)
 
 ### Day 1: Product Card
 <img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="360"/>
@@ -39,3 +40,6 @@ Link: https://www.nodemy.vn/projects-html-css-js
 
 ### Day 9: Weather App
 <img src="https://media.giphy.com/media/RkQnLZBvVtFI0oI79j/giphy.gif" alt="Weather App" width="360"/>
+
+### Day 10: Todo List
+<img src="https://media.giphy.com/media/vhtCsxSS4GvecMTvsL/giphy.gif" alt="Todo List" width="360"/>
