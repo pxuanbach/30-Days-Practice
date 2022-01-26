@@ -13,6 +13,7 @@ Link: https://www.nodemy.vn/projects-html-css-js
 - [Day 8: Register Form Validator](#day-8-register-form-validator)
 - [Day 9: Weather App](#day-9-weather-app)
 - [Day 10: Todo List](#day-10-todo-list)
+- [Day 11: Toast Notification](#day-11-toast-notification)
 
 ### Day 1: Product Card
 <img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="360"/>
@@ -43,3 +44,6 @@ Link: https://www.nodemy.vn/projects-html-css-js
 
 ### Day 10: Todo List
 <img src="https://media.giphy.com/media/vhtCsxSS4GvecMTvsL/giphy.gif" alt="Todo List" width="360"/>
+
+### Day 11: Toast Notification
+<img src="https://media.giphy.com/media/TNFF7VGO9zw0PC49oI/giphy.gif" alt="Image Gallery" width="720"/>
