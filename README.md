@@ -14,6 +14,7 @@ Link: https://www.nodemy.vn/projects-html-css-js
 - [Day 9: Weather App](#day-9-weather-app)
 - [Day 10: Todo List](#day-10-todo-list)
 - [Day 11: Toast Notification](#day-11-toast-notification)
+- [Day 12: Custom Range Slider](#day-12-custom-range-slider)
 
 ### Day 1: Product Card
 <img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="360"/>
@@ -46,4 +47,7 @@ Link: https://www.nodemy.vn/projects-html-css-js
 <img src="https://media.giphy.com/media/vhtCsxSS4GvecMTvsL/giphy.gif" alt="Todo List" width="360"/>
 
 ### Day 11: Toast Notification
-<img src="https://media.giphy.com/media/TNFF7VGO9zw0PC49oI/giphy.gif" alt="Image Gallery" width="720"/>
+<img src="https://media.giphy.com/media/TNFF7VGO9zw0PC49oI/giphy.gif" alt="Toast Notification" width="720"/>
+
+### Day 12: Custom Range Slider
+<img src="https://media.giphy.com/media/DybbYqxGjsyU3mITOR/giphy.gif" alt="Custom Range Slider" width="720"/>
