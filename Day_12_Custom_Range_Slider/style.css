@@ -6,8 +6,10 @@
     font-family: "Poppins", sans-serif;
 }
 body{
-    min-height: 100vh;
+    width: 100%;
+    height: 100vh;
     background: #ecf0f1;
+    overflow: hidden;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -17,11 +19,14 @@ body{
     margin-top: 50px;
     width: 600px;
     height: 50px;
-    background: white;
+    background-color: white;
     border-radius: 25px;
+    position: relative;
+    overflow: hidden;
+    cursor: e-resize;
 }
 .range-bar{
-    background: linear-gradient(to right, #bb69cc, #246bac);
+    background-image: linear-gradient(to right, #bb69cc, #246bac);
     position: absolute;
     top: 0;
     left: 0;
@@ -29,4 +34,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.range-bar span{
+    color: white;
+    font-size: 26px;
 }
