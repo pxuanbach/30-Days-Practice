@@ -15,6 +15,7 @@ Link: https://www.nodemy.vn/projects-html-css-js
 - [Day 10: Todo List](#day-10-todo-list)
 - [Day 11: Toast Notification](#day-11-toast-notification)
 - [Day 12: Custom Range Slider](#day-12-custom-range-slider)
+- [Day 13: Preview Image](#day-13-preview-image)
 
 ### Day 1: Product Card
 <img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="360"/>
@@ -51,3 +52,6 @@ Link: https://www.nodemy.vn/projects-html-css-js
 
 ### Day 12: Custom Range Slider
 <img src="https://media.giphy.com/media/DybbYqxGjsyU3mITOR/giphy.gif" alt="Custom Range Slider" width="720"/>
+
+### Day 13: Preview Image
+<img src="https://media.giphy.com/media/N3jYNbZ4orFemD2T0i/giphy.gif" alt="Preview Image" width="360"/>
