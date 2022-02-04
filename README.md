@@ -17,6 +17,7 @@ Link: https://www.nodemy.vn/projects-html-css-js
 - [Day 12: Custom Range Slider](#day-12-custom-range-slider)
 - [Day 13: Preview Image](#day-13-preview-image)
 - [Day 14: Slideshow](#day-14-slideshow)
+- [Day 15: Live Product Filter](#day-15-live-product-filter)
 
 ### Day 1: Product Card
 <img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="360"/>
@@ -59,3 +60,6 @@ Link: https://www.nodemy.vn/projects-html-css-js
 
 ### Day 14: Slideshow
 <img src="https://media.giphy.com/media/GONJn3QlZgOx0GMYNP/giphy.gif" alt="Slideshow" width="720"/>
+
+### Day 15: Live Product Filter
+<img src="https://media.giphy.com/media/uFXrlHlgMPINvhHnZr/giphy.gif" alt="Live Product Filter" width="360"/>
