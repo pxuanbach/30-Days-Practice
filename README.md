@@ -18,6 +18,7 @@ Link: https://www.nodemy.vn/projects-html-css-js
 - [Day 13: Preview Image](#day-13-preview-image)
 - [Day 14: Slideshow](#day-14-slideshow)
 - [Day 15: Live Product Filter](#day-15-live-product-filter)
+- [Day 16: Show On Scroll](#day-16-show-on-scroll)
 
 ### Day 1: Product Card
 <img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="360"/>
@@ -63,3 +64,6 @@ Link: https://www.nodemy.vn/projects-html-css-js
 
 ### Day 15: Live Product Filter
 <img src="https://media.giphy.com/media/uFXrlHlgMPINvhHnZr/giphy.gif" alt="Live Product Filter" width="360"/>
+
+### Day 16: Show On Scroll
+<img src="https://media.giphy.com/media/kPNPJuQ2SpusF3QnX7/giphy.gif" alt="Show On Scroll" width="720"/>
