@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    overflow: hidden;
+    background-color: #8a66b4;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+.counter{
+    margin: 30px;
+    padding: 20px 40px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 15px 30px rgb(0 0 0 / 15%);
+    color: white;
+    background-color: #6b38b6;
+}
+.counter p{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.counter h2{
+    font-size: 60px;
+}
