@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    overflow: hidden;
+}
+.tools{
+    width: 100%;
+    background: rgb(126, 127, 209);
+    padding: 15px;
+    display: flex;
+    align-items: center;
+}
+.tools > *{
+    padding: 5px;
+    background: #fff;
+    border: none;
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	cursor: pointer;
+}
+#save{
+    margin-left: auto;
+    text-decoration: none;
+}
+#clear{
+    font-size: 30px;
+}
+canvas {
+    display: block;
+    margin: 0 auto;
+	border: 1px solid #333;
+    border-top: none;
+}
