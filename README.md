@@ -21,6 +21,7 @@ Link: https://www.nodemy.vn/projects-html-css-js
 - [Day 16: Show On Scroll](#day-16-show-on-scroll)
 - [Day 17: Counter Up](#day-17-counter-up)
 - [Day 18: Drag And Drop](#day-18-drag-and-drop)
+- [Day 19: Drawing App](#day-19-drawing-app)
 
 ### Day 1: Product Card
 <img src="https://media.giphy.com/media/J8YAPyJwAnltyffbh1/giphy.gif" alt="Product Card" width="360"/>
@@ -76,3 +77,5 @@ Link: https://www.nodemy.vn/projects-html-css-js
 ### Day 18: Drag And Drop
 <img src="https://media.giphy.com/media/7SXkZlPwtwhdpNSZtO/giphy.gif" alt="Drag And Drop" width="720"/>
 
+### Day 19: Drawing App
+<img src="https://media.giphy.com/media/lHrBJX9PhrerC3Or8t/giphy.gif" alt="Drawing App" width="720"/>
