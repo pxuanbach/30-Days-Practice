@@ -8,13 +8,35 @@ body{
     background: #060802;
     display: flex;
     font-family: sans-serif;
-    align-items: center;
-    justify-content: center;
 }
 .typing{
+    margin: 250px auto;
+}
+.typing p{
     color: #96ee1c;
     font-size: 70px;
     text-shadow: 0 0 100px #96ee1c;
     white-space: nowrap;
     overflow: hidden;
+    animation: typing 8s steps(30) infinite, blink 1s infinite;
+}
+
+@keyframes typing {
+    0%,
+    100% {
+        width: 0%;
+    }
+    70%,
+    90% {
+        width: 100%;
+    }
+}
+@keyframes blink {
+	0%,
+	100% {
+		border-right: 10px solid transparent;
+	}
+	50% {
+		border-right: 10px solid #96ee1c;
+	}
 }
