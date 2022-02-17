@@ -7,4 +7,14 @@ body{
     height: 100vh;
     background: #060802;
     display: flex;
+    font-family: sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+.typing{
+    color: #96ee1c;
+    font-size: 70px;
+    text-shadow: 0 0 100px #96ee1c;
+    white-space: nowrap;
+    overflow: hidden;
 }
